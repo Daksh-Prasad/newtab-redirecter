@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Custom New Tab Redirect with Icon",
+  "name": "New Tab Redirecter",
   "version": "1.0",
   "description": "New Tab Redirecter automatically opens a specified website each time a new tab is created, allowing quick access to your chosen page. Simple, efficient, and customizable for streamlined browsing. Created by Daksh Prasad on Github.",
   "chrome_url_overrides": {
