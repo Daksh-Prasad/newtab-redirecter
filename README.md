@@ -1,4 +1,4 @@
-![icon48](https://github.com/user-attachments/assets/9de22467-1690-4882-8ad5-385561a0b936)
+![icon128](https://github.com/user-attachments/assets/d9fffa6d-0375-4fbd-87e2-5f55fd27b31f)
 
 # New-Tab-Redirecter
 New Tab Redirecter automatically opens a specified website each time a new tab is created, allowing quick access to your chosen page. Simple, efficient, and customizable for streamlined browsing. Created by Daksh Prasad.
